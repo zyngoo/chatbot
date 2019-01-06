@@ -1,5 +1,5 @@
 ## 感谢原创者：https://github.com/Boreaso/tensorflow-chatbot
-***
+
 **本人另外新增PyQt5模块，进行了界面的展示：**
 
 ![](./images/image2.png)
